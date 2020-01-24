@@ -34,7 +34,11 @@ img{
     position: absolute;
     top:50%;
     left: 50%;
+<<<<<<< HEAD
     transform: translateX(100%) translateY(-200%);
+=======
+    transform: translateX(160%) translateY(-280%);
+>>>>>>> 5ad38c0cd3d905a09ed8e9806d657a3f4a3da4c2
 }
 
 
