@@ -1,0 +1,56 @@
+#div1 {
+    display: flex;
+    justify-content: center;
+}
+
+canvas{
+    border: 3px solid #AF9ED4;   
+}
+
+body{
+
+    background-image:url(../images/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#modal{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.3);
+}
+
+img{
+    
+    width: 150px;
+    height: 150px
+}
+
+#boton{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(100%) translateY(-200%);
+}
+
+
+/* 
+.botonimagen{
+    background-image:url('/images//fondoIndex.jpg');
+    background-repeat:no-repeat;
+    height:800px;
+    width:1000px;
+    background-position:center;
+  } */
+
+/* 
+Iconos diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon"> www.flaticon.es</a>
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+
+*/
